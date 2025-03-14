@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on andriod apps,Web Apps , APIs
-- 🌱 I’m currently learning ts, Kotlin
+- 🌱 I’m currently learning Jetpack Compose, Kotlin
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Andriod devlopment
 - 😄 Pronouns: He/Him
