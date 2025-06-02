@@ -3,7 +3,7 @@
 
 <h2>Hi! It's Hax, I Love to code in <img src="https://emojis.slackmojis.com/emojis/images/1643514369/3438/python.gif?1643514369" width="23">     <img src="https://emojis.slackmojis.com/emojis/images/1645726790/54023/kotlin-party.gif?1645726790" width="23">
 <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-filled-tal-revivo.png" width="23">
-<img src="https://emojis.slackmojis.com/emojis/images/1645726790/54023/kotlin-party.gif?1645726790" width="23"> <img src="https://emojis.slackmojis.com/emojis/images/1643514073/291/golang.png?1643514073" width="23"> <img src="https://emojis.slackmojis.com/emojis/images/1643514905/9226/mongo_db.png?1643514905" width="23"> and love to learn new things </h2>
+<img src="https://img.icons8.com/color/48/dart.png" width="23"> <img src="https://emojis.slackmojis.com/emojis/images/1643514073/291/golang.png?1643514073" width="23"> <img src="https://emojis.slackmojis.com/emojis/images/1643514905/9226/mongo_db.png?1643514905" width="23"> and love to learn new things </h2>
 
 Here are some ideas to get you started:
 
