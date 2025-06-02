@@ -1,14 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?text=Hello-EveryOne!&type=waving&color=gradient&height=100&fontAlignY=50)
 
 
-<h2>Hi! It's Hax, I Love to code in <img src="https://emojis.slackmojis.com/emojis/images/1643514369/3438/python.gif?1643514369" width="23">     <img src="https://emojis.slackmojis.com/emojis/images/1645726790/54023/kotlin-party.gif?1645726790" width="23"> <img src="https://emojis.slackmojis.com/emojis/images/1643514073/291/golang.png?1643514073" width="23"> <img src="https://emojis.slackmojis.com/emojis/images/1643514905/9226/mongo_db.png?1643514905" width="23"> and love to learn new things </h2>
+<h2>Hi! It's Hax, I Love to code in <img src="https://emojis.slackmojis.com/emojis/images/1643514369/3438/python.gif?1643514369" width="23">     <img src="https://emojis.slackmojis.com/emojis/images/1645726790/54023/kotlin-party.gif?1645726790" width="23">
+  <img src="https://emojis.slackmojis.com/emojis/images/1645726790/54023/kotlin-party.gif?1645726790" width="23"><img src="https://emojis.slackmojis.com/emojis/images/1643514073/291/golang.png?1643514073" width="23"> <img src="https://emojis.slackmojis.com/emojis/images/1643514905/9226/mongo_db.png?1643514905" width="23"> and love to learn new things </h2>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on andriod apps,Web Apps , APIs
-- 🌱 I’m currently learning Jetpack Compose, Kotlin
+- 🔭 I’m currently working on Mobile apps, Web Apps ,APIs
+- 🌱 I’m currently learning Jetpack Compose, Kotlin , Flutter
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with Andriod devlopment
+- 🤔 I’m looking for help with Andriod devlopment, Python backend devlopment
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Python
 
@@ -30,4 +31,4 @@ Here are some ideas to get you started:
 
 <h2>Langs And Tools <img src="[https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394](https://emojis.slackmojis.com/emojis/images/1643516686/27316/tooth.gif?1643516686)" width="22"></h2>  
 
-![](https://skillicons.dev/icons?i=python,go,kotlin,javascript,androidstudio,idea,pycharm,github,mongodb,redis)
+![](https://skillicons.dev/icons?i=python,dart,kotlin,javascript,fluttr,androidstudio,idea,pycharm,github,mongodb,redis,)
