@@ -7,12 +7,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mobile apps, Web Apps ,APIs
-- 🌱 I’m currently learning Jetpack Compose, Kotlin , Flutter
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with Andriod devlopment, Python backend devlopment
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Python
+- 🔭 I’m currently working on Mobile apps , Web Apps, APIs.
+- 🌱 I’m currently learning Jetpack Compose, Kotlin, Flutter.
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with Andriod devlopment, Python backend devlopment.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I love python.
 
 
 
