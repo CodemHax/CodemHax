@@ -50,19 +50,6 @@
   </a>
   &nbsp;&nbsp;
 </p>
-
-<h3 align="center">GitHub Stats & Coding Activity 📊</h3>
-
-<p align="center">
-  <a href="https://github.com/CodemHax">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodemHax&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Hax's GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/CodemHax">
-    <img src="https://streak-stats.demolab.com/?user=CodemHax&theme=dark&hide_border=true" alt="Hax's GitHub Streak" />
-  </a>
-</p>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodemHax&layout=compact&theme=merko&hide_border=true&count_private=true" alt="Hax's Top Languages" />
 </p>
