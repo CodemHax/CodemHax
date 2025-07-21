@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?text=Hello%20Everyone!&type=waving&color=gradient&height=120&fontAlignY=45&fontSize=80)
-
 <h2 align="center">I'm a developer passionate about building things with code.</h2>
 
 <p align="center">
