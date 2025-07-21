@@ -50,9 +50,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodemHax&theme=dark" alt="Hax's GitHub Stats" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/CodemHax">
-    <img src="https://streak-stats.demolab.com/?user=CodemHax&theme=dark&hide_border=true" alt="Hax's GitHub Streak" />
-  </a>
 </p>
 
 <p align="center">
