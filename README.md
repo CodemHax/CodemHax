@@ -53,7 +53,3 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodemHax&layout=compact&theme=merko&hide_border=true&count_private=true" alt="Hax's Top Languages" />
 </p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodemHax&layout=compact&theme=merko&hide_border=true&count_private=true" alt="Hax's Top Languages" />
-</p>
