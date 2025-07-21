@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=Hello%20Everyone!&type=waving&color=gradient&height=120&fontAlignY=45&fontSize=80)
+
 <h2 align="center">I'm a developer passionate about building things with code.</h2>
 
 <p align="center">
@@ -8,17 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://emojis.slackmojis.com/emojis/images/1643514369/3438/python.gif?1643514369" width="28" alt="python"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://emojis.slackmojis.com/emojis/images/1643514369/3438/python.gif?1643514369" width="28" alt="python"/></a>
   &nbsp;
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://emojis.slackmojis.com/emojis/images/1645726790/54023/kotlin-party.gif?1645726790" width="28" alt="kotlin"/> </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://emojis.slackmojis.com/emojis/images/1645726790/54023/kotlin-party.gif?1645726790" width="28" alt="kotlin"/></a>
   &nbsp;
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-filled-tal-revivo.png" width="28" alt="flutter"/> </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-filled-tal-revivo.png" width="28" alt="flutter"/></a>
   &nbsp;
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/dart.png" width="28" alt="dart"/> </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/dart.png" width="28" alt="dart"/></a>
   &nbsp;
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://emojis.slackmojis.com/emojis/images/1643514073/291/golang.png?1643514073" width="28" alt="go"/> </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://emojis.slackmojis.com/emojis/images/1643514073/291/golang.png?1643514073" width="28" alt="go"/></a>
   &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://emojis.slackmojis.com/emojis/images/1643514905/9226/mongo_db.png?1643514905" width="28" alt="mongodb"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://emojis.slackmojis.com/emojis/images/1643514905/9226/mongo_db.png?1643514905" width="28" alt="mongodb"/></a>
 </p>
 
 ---
@@ -46,12 +47,14 @@
 
 <p align="center">
   <a href="https://github.com/CodemHax">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodemHax&theme=dark" alt="Hax's GitHub Stats" />
+    <img src="https://streak-stats.demolab.com/?user=CodemHax&theme=dark" alt="Hax's GitHub Streak" />
   </a>
-  &nbsp;&nbsp;
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodemHax&layout=compact&theme=merko&hide_border=true&count_private=true" alt="Hax's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodemHax&layout=compact&theme=merko&hide_border=true&count_private=true" alt="Hax's Top Languages" />
 </p>
-
-<a href="https://wakatime.com/@82c75ba1-f75b-437d-93ca-fa850b619f52"><img src="https://wakatime.com/badge/user/82c75ba1-f75b-437d-93ca-fa850b619f52.svg" alt="Total time coded since Jun 29 2025" /></a>
+<p align="center">
+  <a href="https://wakatime.com/@82c75ba1-f75b-437d-93ca-fa850b619f52">
+    <img src="https://wakatime.com/badge/user/82c75ba1-f75b-437d-93ca-fa850b619f52.svg" alt="Total time coded" />
+  </a>
+</p>
