@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%20Hax!&type=waving&color=gradient&height=120&fontAlignY=45&fontSize=80)
+![header](https://capsule-render.vercel.app/api?text=Hello%20Everyone!&type=waving&color=gradient&height=120&fontAlignY=45&fontSize=80)
 
 <h2 align="center">I'm a developer passionate about building things with code.</h2>
 
@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://github.com/CodemHax">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodemHax&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Hax's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodemHax&theme=dark" alt="Hax's GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/CodemHax">
