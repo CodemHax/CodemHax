@@ -53,3 +53,5 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodemHax&layout=compact&theme=merko&hide_border=true&count_private=true" alt="Hax's Top Languages" />
 </p>
+
+<a href="https://wakatime.com/@82c75ba1-f75b-437d-93ca-fa850b619f52"><img src="https://wakatime.com/badge/user/82c75ba1-f75b-437d-93ca-fa850b619f52.svg" alt="Total time coded since Jun 29 2025" /></a>
