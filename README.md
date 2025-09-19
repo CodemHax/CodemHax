@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Hello%20Everyone!&type=waving&color=gradient&height=120&fontAlignY=45&fontSize=80)
 
-![](https://komarev.com/ghpvc/?username=codemhax)
+
 
 <h2 align="center">I'm a developer passionate about building things with code.</h2>
 
@@ -60,3 +60,6 @@
     <img src="https://wakatime.com/badge/user/82c75ba1-f75b-437d-93ca-fa850b619f52.svg" alt="Total time coded" />
   </a>
 </p>
+
+
+![](https://komarev.com/ghpvc/?username=codemhax)
