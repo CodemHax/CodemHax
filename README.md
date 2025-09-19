@@ -60,6 +60,10 @@
     <img src="https://wakatime.com/badge/user/82c75ba1-f75b-437d-93ca-fa850b619f52.svg" alt="Total time coded" />
   </a>
 </p>
+<p align="center">
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=codemhax" alt="Total time coded" />
+  </a>
+</p>
 
 
-![](https://komarev.com/ghpvc/?username=codemhax)
