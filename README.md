@@ -40,7 +40,7 @@
 <h3 align="center">My Tech Stack & Tools 🛠️</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,Go,javascript,flutter,androidstudio,idea,pycharm,github,mongodb,redis" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,dart,go,javascript,flutter,androidstudio,idea,pycharm,github,mongodb,redis" alt="My Skills"/>
 </p>
 
 ---
