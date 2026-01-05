@@ -31,7 +31,7 @@
 - 🔭 I’m currently building **Mobile Apps**, **Web Apps**, and robust **APIs**.
 - 🌱 I’m deepening my knowledge in **FastAPI**, **Go**, and **Flutter**.
 - 👯 I’m looking to collaborate on impactful open-source projects.
-- 🤔 I'm seeking to grow in **Android development** and **Backend development**.
+- 🤔 I'm seeking to grow in **App development** and **Backend development**.
 - 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: Python's name was inspired by the British comedy group "Monty Python", not the snake!
 
