@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://github.com/CodemHax">
-    <img src="https://streak-stats.demolab.com/?user=CodemHax&theme=dark" alt="Hax's GitHub Streak" />
+    <img src="https://archax-github.vercel.app/?user=CodemHax&theme=dark" alt="Hax's GitHub Streak" />
   </a>
 </p>
 <p align="center">
