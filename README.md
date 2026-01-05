@@ -29,9 +29,9 @@
 ### 📌 About Me
 
 - 🔭 I’m currently building **Mobile Apps**, **Web Apps**, and robust **APIs**.
-- 🌱 I’m deepening my knowledge in **Jetpack Compose**, **Kotlin**, and **Flutter**.
+- 🌱 I’m deepening my knowledge in **FastAPI**, **Go**, and **Flutter**.
 - 👯 I’m looking to collaborate on impactful open-source projects.
-- 🤔 I'm seeking to grow in **Android development** and **Python backend development**.
+- 🤔 I'm seeking to grow in **Android development** and **Backend development**.
 - 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: Python's name was inspired by the British comedy group "Monty Python", not the snake!
 
@@ -40,7 +40,7 @@
 <h3 align="center">My Tech Stack & Tools 🛠️</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,kotlin,javascript,flutter,androidstudio,idea,pycharm,github,mongodb,redis" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,dart,Go,javascript,flutter,androidstudio,idea,pycharm,github,mongodb,redis" alt="My Skills"/>
 </p>
 
 ---
