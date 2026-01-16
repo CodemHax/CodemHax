@@ -22,14 +22,18 @@
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://emojis.slackmojis.com/emojis/images/1643514073/291/golang.png?1643514073" width="28" alt="go"/></a>
   &nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://emojis.slackmojis.com/emojis/images/1643514905/9226/mongo_db.png?1643514905" width="28" alt="mongodb"/></a>
+    &nbsp;
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=redis" width="28" alt="redis"/></a>
 </p>
+
 
 ---
 
 ### 📌 About Me
 
 - 🔭 I’m currently building **Mobile Apps**, **Web Apps**, and robust **APIs**.
-- 🌱 I’m deepening my knowledge in **FastAPI**, **Go**, and **Flutter**.
+- 🌱 I’m deepening my knowledge in **FastAPI**, **Gin**, and **Flutter**.
 - 👯 I’m looking to collaborate on impactful open-source projects.
 - 🤔 I'm seeking to grow in **App development** and **Backend development**.
 - 😄 Pronouns: **He/Him**.
